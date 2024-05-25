@@ -1,0 +1,38 @@
+{
+    "base_config": {
+        "batch_size": 8,
+        "epochs": 100,
+        "early_stop": 20,
+        "output_dir": "./data/experiments"
+    },
+    "experiments": [
+        {
+            "model": "resnet",
+            "dataset": "pic",
+            "dataset_dir": "./data/datasets/pic",
+            "task": "classification",
+            "n_classes": 7
+        },
+        {
+            "model": "vit",
+            "dataset": "pic",
+            "dataset_dir": "./data/datasets/pic",
+            "task": "classification",
+            "n_classes": 7
+        },
+        {
+            "model": "crt_net",
+            "dataset": "pic",
+            "dataset_dir": "./data/datasets/pic",
+            "task": "classification",
+            "n_classes": 7
+        },
+        {
+            "model": "coatnet",
+            "dataset": "pic",
+            "dataset_dir": "./data/datasets/pic",
+            "task": "classification",
+            "n_classes": 7
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "steps": ["build", "undo_transform", "transform"],
+    "transformation_timeout": 15,
+    "idle_timeout": 60,
+    "render_resolution": 512,
+    "blend_dir": "./data/datasets/pic/blend",
+    "metadata_dir": "./data/datasets/pic/metadata",
+    "render_dir": "./data/datasets/pic/render",
+    "cache_dir": "./data/datasets/pic/cache",
+    "scenes_3d": {
+        "root_dir": "./data/datasets/scenes_3d",
+        "resources": "./resources/scenes_3d",
+        "skip_download": false
+    },
+    "scene_build": {
+        "light_energy": 500000
+    },
+    "camera_generation": {
+        "absolute_models_threshold": 5,
+        "relative_models_threshold": 0.4,
+        "max_z": 130,
+        "min_z": 60,
+        "location_suggestion": {
+            "radius": 100,
+            "distance": 800,
+            "n_locations": 20
+        }
+    },
+    "transformation": {
+        "n_transformations": 50,
+        "n_camera_transformations": 5,
+        "types": ["co-occurrence_location", "co-occurrence_rotation", "gravity", "intersection", "size", "pose"],
+        "object_retries": 10,
+        "resources": "./resources/pic"
+    },
+    "debug_scene": null
+}

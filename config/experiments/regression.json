@@ -1,0 +1,38 @@
+{
+    "base_config": {
+        "batch_size": 8,
+        "epochs": 100,
+        "early_stop": 20,
+        "output_dir": "./data/experiments"
+    },
+    "experiments": [
+        {
+            "model": "resnet",
+            "dataset": "pic",
+            "dataset_dir": "./data/datasets/pic",
+            "task": "regression",
+            "n_classes": 1
+        },
+        {
+            "model": "vit",
+            "dataset": "pic",
+            "dataset_dir": "./data/datasets/pic",
+            "task": "regression",
+            "n_classes": 1
+        },
+        {
+            "model": "crt_net",
+            "dataset": "pic",
+            "dataset_dir": "./data/datasets/pic",
+            "task": "regression",
+            "n_classes": 1
+        },
+        {
+            "model": "coatnet",
+            "dataset": "pic",
+            "dataset_dir": "./data/datasets/pic",
+            "task": "regression",
+            "n_classes": 1
+        }
+    ]
+}

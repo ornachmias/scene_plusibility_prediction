@@ -1,0 +1,4334 @@
+{
+    "20b4891228ecfb4876bb31db0358e9c6": {
+        "category": "accessory",
+        "sub_category": "bag",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "3ee7c293fbb017d28c01c03e8a2aa33c": {
+        "category": "accessory",
+        "sub_category": "bag",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "54cd45b275f551b276bb31db0358e9c6": {
+        "category": "accessory",
+        "sub_category": "bag",
+        "normalized_pose": [
+            270.0,
+            0.0,
+            0.0
+        ]
+    },
+    "ec1b9ac45597e4cd9318cfd6c0d37d9b": {
+        "category": "accessory",
+        "sub_category": "bag",
+        "normalized_pose": [
+            0.0,
+            255.0,
+            90.0
+        ]
+    },
+    "a642201d64f3a2adf345c3e267c3bfb3": {
+        "category": "basket",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "215f72973cfa2c9a42c2142b4fb342c8": {
+        "category": "bed",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "238e0a5acc8ef3dd5cb2b1363f4a4cab": {
+        "category": "bed",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "4b62e46f46ab7d5f37445e82d5b75b1": {
+        "category": "bed",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "5a018e80915977b476a53b207e11e829": {
+        "category": "bed",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "724fc225b644c324e3f7a74e12a274ef": {
+        "category": "bed",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "74f19b23b62ea30ae3f7a74e12a274ef": {
+        "category": "bed",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "77f27e0a7f278dede3f7a74e12a274ef": {
+        "category": "bed",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "e03b7e495d68ba1c2011c4f43617c522": {
+        "category": "bed",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "499623d9dccc195af8fd14d222168087": {
+        "category": "board",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "1308f3ff2e55eae4f1783a44a88d6274": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "20120e61e199b8cfd319c38340319ae4": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "2387252e09b3911227eb00c151c6f711": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "28d27f1204c1b3de6512b7b24f3d84": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "40ab45735f526717e25492f5f62d416f": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "5027bd5ab457e99068821642e9a54505": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "53dfc19cca9af4f5e4cca9a4866076a8": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            180.0
+        ]
+    },
+    "5c8ea11840795cb5f1783a44a88d6274": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "5e8b956b799a439d8bd9de6b28931bb0": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "5f0f17c97234b510b4bb271cfa904d13": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "60cbc688b57f8b5446407779dbd69b2d": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "63ac45ba2c2231d155f9a00acc25f137": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "66683c677e7b40593c2e50348f23d3d": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "7ad134826824de98d0bef5e87b92b95e": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "876f974fb8b7becd9aa57619897b669d": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "8f7ed1292e70957fea9bd4954e1c8c49": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "934f911815518a12862ec27465061d4": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "94e289c89059106bd8f74b0004a598cd": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "a06c400e070343cfd8a56a98f4d239c3": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            180.0
+        ]
+    },
+    "a3acfe6f313ab881bb088904f7cb154": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "acb1b6db1fe74b15203833582327dce4": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "b2ded1854643f1451c1b3b2ed8d13bf8": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            180.0
+        ]
+    },
+    "b3d67d3438a3e8f4bad655827517f8c": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "b5de329e6cf29a4fe08fb93077a4e497": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "b6f10c040560d6e41f6a5b0146bf3030": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "bfe54fe90c7d99637fffc92abe94e907": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "c657c17fc2ceb81e41f333ca01b8bfac": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "c93c514b07cc289df91663a74ccd2338": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "d4f194efb445914e4b3d6a0fb5682cc4": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "d7f35cad0f4ab17788dcbe86402c7c15": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "e83de192b44fccd398d5fc0473d00a1c": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "e955b63a4bd738857178717457aa5d20": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "ee4a8aae221bd0bda72093f9b5aa73": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "f1b1c92f91d0e52bc68ff00665267e32": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "f38288f22968aaea631335e2bdab5ea0": {
+        "category": "chair",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "149a105979cad722c1467c54b9e09ce5": {
+        "category": "closet",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "14f1b9eb86a7bbe7a65b8b8fbd95b204": {
+        "category": "closet",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "1564c30fb4cc7979a8ff4f6e9563bff6": {
+        "category": "closet",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "1ac1d0986508974bf1783a44a88d6274": {
+        "category": "closet",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "2168308786e7e2ddf1783a44a88d6274": {
+        "category": "closet",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "24757c70e0d17ff7c84401851c241507": {
+        "category": "closet",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            180.0
+        ]
+    },
+    "2731349879db84fc24517c38da518f49": {
+        "category": "closet",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "383046867c09e3e4c7b30c717529f645": {
+        "category": "closet",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "3d3b4b8874f2aaddc397356311cbeea4": {
+        "category": "closet",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "586356e8809b6a678d44b95ca8abc7b2": {
+        "category": "closet",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "59dfef9909a3f1cba7dc7120f15cd1cf": {
+        "category": "closet",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "84c52a5ac0f8d1d060ddc468fe733ed1": {
+        "category": "closet",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "ac4761dada79926919bebd2312571a3": {
+        "category": "closet",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "ae4c4273468905586ae3841175e518b2": {
+        "category": "closet",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "af4372f3d97161b135a111c0481a18d6": {
+        "category": "closet",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "b276b63c40e9ef46534d1a2a7289d9a8": {
+        "category": "closet",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "b8856846ffd99c10d60fb7e662fdd9": {
+        "category": "closet",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "dca2cd661bece47bd810b14a81e12eca": {
+        "category": "closet",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "36a16798cfe85c253178085d61d03def": {
+        "category": "clothing",
+        "sub_category": "shoes",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "6547433f606945dbd9d6eb448e778c01": {
+        "category": "clothing",
+        "sub_category": "shirt",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "75788b0b4a5f4499a5d9e352dbc57182": {
+        "category": "clothing",
+        "sub_category": "shirt",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "86b551bacf67ac442d4ead5a1be351b7": {
+        "category": "clothing",
+        "sub_category": "shirt",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "910cb243654a00704b97a9cafcd445b2": {
+        "category": "clothing",
+        "sub_category": "shoes",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "f3c777f0266540a1cbc790a63192d2ab": {
+        "category": "clothing",
+        "sub_category": "shoes",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "f7cfc7663ad87b1e10e2f02e4d893865": {
+        "category": "clothing",
+        "sub_category": "shoes",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "18e56f350d1cc7687b88e0ae521fe6b4": {
+        "category": "computer",
+        "sub_category": "desktop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "22fd6459f3de3851e4b68d3b17c43658": {
+        "category": "computer",
+        "sub_category": "desktop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "2545015993096b7a1dd448ad6b170564": {
+        "category": "computer",
+        "sub_category": "desktop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "47a6033fe59c7565386587cdaf0d33b3": {
+        "category": "computer",
+        "sub_category": "desktop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "51ddb98b62d242c234b77b4127aa78ab": {
+        "category": "computer",
+        "sub_category": "desktop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "54c646ab27c11ddbd6e6eaeb114382d5": {
+        "category": "computer",
+        "sub_category": "laptop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "58a6824cc9bc3ea88ca14ae0a3be12": {
+        "category": "computer",
+        "sub_category": "laptop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "6137feee34fb91de84da0a0f266ade28": {
+        "category": "computer",
+        "sub_category": "desktop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "62b25a5e3119b8409023147b38c03c9f": {
+        "category": "computer",
+        "sub_category": "laptop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "718ebcda915e18c4346ed9821e11e90": {
+        "category": "computer",
+        "sub_category": "laptop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "76005568c6a76385c8f56abbf37ac61c": {
+        "category": "computer",
+        "sub_category": "laptop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "7a6b074fec1b8b9c810b27ad0ef73ed": {
+        "category": "computer",
+        "sub_category": "monitor",
+        "normalized_pose": [
+            90.0,
+            0.0,
+            180.0
+        ]
+    },
+    "801b1a02bb7225a1cb785c160642ee24": {
+        "category": "computer",
+        "sub_category": "laptop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "82edd31783edc77018a5de3a5f9a5881": {
+        "category": "computer",
+        "sub_category": "laptop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "952b776eacc0f0cc2e0bc329949c179c": {
+        "category": "computer",
+        "sub_category": "desktop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "9785a579ea791039c639c533e8b5aec1": {
+        "category": "computer",
+        "sub_category": "laptop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "a85f734df73587276cb451c48da47342": {
+        "category": "computer",
+        "sub_category": "desktop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "b67a9d60ae1742ee5a70b9a0cc27fbd0": {
+        "category": "computer",
+        "sub_category": "desktop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "b8215c19532769b2c9db333562750d81": {
+        "category": "computer",
+        "sub_category": "desktop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "bc93020bf8ec1bdd6ed1ecd0493277b0": {
+        "category": "computer",
+        "sub_category": "desktop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "c8440e1075b1b44522de187cba227ff8": {
+        "category": "computer",
+        "sub_category": "laptop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "cb3302db1d7441716d07c55cf995503e": {
+        "category": "computer",
+        "sub_category": "desktop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "d20ff8d7e4c35a4b8616e3053247e2cc": {
+        "category": "computer",
+        "sub_category": "laptop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "d2ceb28e4f5a3bde661bdb03b2dfae2": {
+        "category": "computer",
+        "sub_category": "desktop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "dfe29647b90f6e8c90440358135814c0": {
+        "category": "computer",
+        "sub_category": "desktop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "e5d666a9b3aceaa2626c1b61fb70e077": {
+        "category": "computer",
+        "sub_category": "laptop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "eb754e333dea8ad81b59305ad07abc8b": {
+        "category": "computer",
+        "sub_category": "laptop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "f6a04708b6f1539863862b05b9038dcc": {
+        "category": "computer",
+        "sub_category": "desktop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "1e355dc9bfd5da837a8c23d2d40f51b8": {
+        "category": "couch",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "26205c6a0a25d5f884099151cc96de84": {
+        "category": "couch",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "377fceb1500e6452d9651cd1d591d64d": {
+        "category": "couch",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            180.0
+        ]
+    },
+    "3aab3cf29ab92ce7c29432ec481a60b1": {
+        "category": "couch",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "499edbd7de3e7423bb865c00ef25280": {
+        "category": "couch",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "7fb8fdbc8c32dc2aad6d7e3d5c0179fe": {
+        "category": "couch",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            180.0
+        ]
+    },
+    "87c7911287c10ab8407b28046774089c": {
+        "category": "couch",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "950b680f7b13e72956433d91451f5f9e": {
+        "category": "couch",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "a930d381392ff51140b559ef47048b86": {
+        "category": "couch",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "b1b5d123613e75c97d1a9cfc3f714b6d": {
+        "category": "couch",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "b714755fb21264c73f89a402a2f2d0aa": {
+        "category": "couch",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "c955e564c9a73650f78bdf37d618e97e": {
+        "category": "couch",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "ca51779877894f6217d272ea353a61a0": {
+        "category": "couch",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "e9d6a366a92a61d979c851829c339535": {
+        "category": "couch",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "f01821fb48425e3a493a4a2a112261d3": {
+        "category": "couch",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "11183af410a81c186f525e79a05bbcb3": {
+        "category": "decorativeaccessory",
+        "sub_category": "book",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "19f04c7aecfb05a3cc639cc85c8f16df": {
+        "category": "decorativeaccessory",
+        "sub_category": "book",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "1e2dcb130b75c6c09251ef7f51226942": {
+        "category": "decorativeaccessory",
+        "sub_category": "book",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "25dd6051429b804430a87f4918e4b66": {
+        "category": "decorativeaccessory",
+        "sub_category": "book",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "2c3fff6bb2f03eeddec62a61accd35e7": {
+        "category": "decorativeaccessory",
+        "sub_category": "book",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "2d3598f0e0a07de7ff8a6b1ceab25ae8": {
+        "category": "decorativeaccessory",
+        "sub_category": "book",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "459e81b89a4b2fd7f29c5890b07f3a65": {
+        "category": "decorativeaccessory",
+        "sub_category": "book",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "4698973d47c780654f48c7d5931203ac": {
+        "category": "decorativeaccessory",
+        "sub_category": "book",
+        "normalized_pose": [
+            339.7,
+            0.0,
+            90.0
+        ]
+    },
+    "4fc472642d8831d32b47ff0229e1155a": {
+        "category": "decorativeaccessory",
+        "sub_category": "book",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "5ba89398d98be20e691def363532c98": {
+        "category": "decorativeaccessory",
+        "sub_category": "book",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "6c467f08afa8c50e8ff650f628611182": {
+        "category": "decorativeaccessory",
+        "sub_category": "book",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            180.0
+        ]
+    },
+    "77fbfb099946218de7cc0348080803a7": {
+        "category": "decorativeaccessory",
+        "sub_category": "book",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "78ef41d48086be4f578beb8a8c25e433": {
+        "category": "decorativeaccessory",
+        "sub_category": "book",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "a1a0db3f5b378aa1fb5b53db5cb27858": {
+        "category": "decorativeaccessory",
+        "sub_category": "books",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "a355beaa0446cee43a9ac064380c69d0": {
+        "category": "decorativeaccessory",
+        "sub_category": "book",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "aa52d97d28e0269c9a4be081d49fa50d": {
+        "category": "decorativeaccessory",
+        "sub_category": "book",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "ab54d97d4677d537bb4fd842f8631c2b": {
+        "category": "decorativeaccessory",
+        "sub_category": "book",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "ba7de321e408c3f52420c65296dc6dfb": {
+        "category": "decorativeaccessory",
+        "sub_category": "book",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "c7f991b1a9bfcff0fe1e2f026632da15": {
+        "category": "decorativeaccessory",
+        "sub_category": "book",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "c8691c86e110318ef2bc9da1ba799c60": {
+        "category": "decorativeaccessory",
+        "sub_category": "book",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "d8d4004791c4f61b80fa98b5eeb7036c": {
+        "category": "decorativeaccessory",
+        "sub_category": "book",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "dc0c4db824981b8cf29c5890b07f3a65": {
+        "category": "decorativeaccessory",
+        "sub_category": "book",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "e638a71884250ab45e723252788c3d6e": {
+        "category": "decorativeaccessory",
+        "sub_category": "books",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "eed19d2be4bce1b15369d9faf0e54402": {
+        "category": "decorativeaccessory",
+        "sub_category": "books",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "f6359231825d13d9795b7c977db0d889": {
+        "category": "decorativeaccessory",
+        "sub_category": "books",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "fd1843119c00bec7a4e3429ccb8eaf16": {
+        "category": "decorativeaccessory",
+        "sub_category": "book",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "fdba54bd8ef643a24cd85a95026d8bd": {
+        "category": "decorativeaccessory",
+        "sub_category": "book",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "febee4d971f3853fedc9b2819b294237": {
+        "category": "decorativeaccessory",
+        "sub_category": "book",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "118644ba80aa5048ac59fb466121cd17": {
+        "category": "fooditem",
+        "sub_category": "fruit",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "2a9817a43c5b3983bb13793251b29587": {
+        "category": "fooditem",
+        "sub_category": "bottle",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "3a9041d7aa0b4b9ad9802f6365035049": {
+        "category": "fooditem",
+        "sub_category": "sodacan",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "412289ded0359b326802d3678aa9d56b": {
+        "category": "fooditem",
+        "sub_category": "bottle",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "5566f264a6fa08cd2a68e506fbd6eecf": {
+        "category": "fooditem",
+        "sub_category": "bottle",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "5e67380e99a257814e5292217a77cd7": {
+        "category": "fooditem",
+        "sub_category": "bottle",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "5e896bc124bc0af9fd590443d27a974e": {
+        "category": "fooditem",
+        "sub_category": "bottle",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "681e91bbadebeac529471183b63392dc": {
+        "category": "fooditem",
+        "sub_category": "bottle",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "68a99bcc0284ef67356f94fde5becb81": {
+        "category": "fooditem",
+        "sub_category": "box",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "6b810dbc89542fd8a531220b48579115": {
+        "category": "fooditem",
+        "sub_category": "bottle",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "6ca2149ac6d3699130612f5c0ef21eb8": {
+        "category": "fooditem",
+        "sub_category": "bottle",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "7b1fc86844257f8fa54fd40ef3a8dfd0": {
+        "category": "fooditem",
+        "sub_category": "bottle",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "8309e710832c07f91082f2ea630bf69e": {
+        "category": "fooditem",
+        "sub_category": "bottle",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "98b56121d1a384fc83a152a47ac52074": {
+        "category": "fooditem",
+        "sub_category": "sodacan",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "9f2bb4a157164af19a7c9976093a710d": {
+        "category": "fooditem",
+        "sub_category": "bottle",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "a15f43d04b3d5256c9ea91c70932c737": {
+        "category": "fooditem",
+        "sub_category": "box",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "a69cca2394a1da2c3df318a0e4be8421": {
+        "category": "fooditem",
+        "sub_category": "box",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "ae1b552722811aabd79f7ac220f4b1b9": {
+        "category": "fooditem",
+        "sub_category": "sodacan",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "aeea9367551df34e8ff23e7e19499284": {
+        "category": "fooditem",
+        "sub_category": "sodacan",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "af3dda1cfe61d0fc9403b0d0536a04af": {
+        "category": "fooditem",
+        "sub_category": "bottle",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "bb0262b63f857b24dc4868f575aa7e3c": {
+        "category": "fooditem",
+        "sub_category": "sodacan",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "c0b6be0fb83b237f504721639e19f609": {
+        "category": "fooditem",
+        "sub_category": "bottle",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "e101cc44ead036294bc79c881a0e818b": {
+        "category": "fooditem",
+        "sub_category": "bottle",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "e8b48d395d3d8744e53e6e0633163da8": {
+        "category": "fooditem",
+        "sub_category": "bottle",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "f452c1053f88cd2fc21f7907838a35d1": {
+        "category": "fooditem",
+        "sub_category": "bottle",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "fa44223c6f785c60e71da2487cb2ee5b": {
+        "category": "fooditem",
+        "sub_category": "bottle",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "fc470c18236612f9d26bdac1fd187e4": {
+        "category": "fooditem",
+        "sub_category": "box",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "13b4f0c8e3e0ee254b70ab68e918c7e9": {
+        "category": "gaming",
+        "sub_category": "control",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "1684b58103c2f3cb1e85aace27a943de": {
+        "category": "gaming",
+        "sub_category": "control",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "61c6c6a47e5b9d34496c7671bf276db5": {
+        "category": "gaming",
+        "sub_category": "control",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "a0b126315ac274ba040aed0c3e87e91": {
+        "category": "gaming",
+        "sub_category": "control",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "128ecbc10df5b05d96eaf1340564a4de": {
+        "category": "kitchensupply",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "1389e932a2c776d83c143af07c12991a": {
+        "category": "kitchensupply",
+        "sub_category": "plate",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "1ec297183c8aa37a36c7d12bccd8bbd": {
+        "category": "kitchensupply",
+        "sub_category": "silverware",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "208610aa6d607c90e3f7a74e12a274ef": {
+        "category": "kitchensupply",
+        "sub_category": "silverware",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            180.0
+        ]
+    },
+    "2997f21fa426e18a6ab1a25d0e8f3590": {
+        "category": "kitchensupply",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "2efc35a3625fa50961a9876fa6384765": {
+        "category": "kitchensupply",
+        "sub_category": "plate",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "309cb1b718d464eb92ababf87635e60c": {
+        "category": "kitchensupply",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "31ec660f1bdbec47ddcb31426795fd11": {
+        "category": "kitchensupply",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "38c843d1075bd351e652fa812161367": {
+        "category": "kitchensupply",
+        "sub_category": "silverware",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "3b8cd62e5842a4c98870030ed2672a1d": {
+        "category": "kitchensupply",
+        "sub_category": "plate",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "40f9a6cc6b2c3b3a78060a3a3a55e18f": {
+        "category": "kitchensupply",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "414772162ef70ec29109ad7f9c200d62": {
+        "category": "kitchensupply",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "445f26ebab09006782b108f8f7d0670d": {
+        "category": "kitchensupply",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "46ed9dad0440c043d33646b0990bb4a": {
+        "category": "kitchensupply",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "48e260a614c0fd4434a8988fdcee4fde": {
+        "category": "kitchensupply",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "49a0a84ee5a91344b11c5cce13f76151": {
+        "category": "kitchensupply",
+        "sub_category": "plate",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "4c3233acca01fb131e652fa812161367": {
+        "category": "kitchensupply",
+        "sub_category": "silverware",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "5b4f446bc0844d8a502ac88bde4dfaa5": {
+        "category": "kitchensupply",
+        "sub_category": "plate",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "5cf702912791e92f6a6ce77a145d1d18": {
+        "category": "kitchensupply",
+        "sub_category": "silverware",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "62634df2ad8f19b87d1b7935311a2ed0": {
+        "category": "kitchensupply",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "6372c4d2e046d0fd7d3aa3bae1f7b494": {
+        "category": "kitchensupply",
+        "sub_category": "plate",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "64ccb121147c56af48ce81ccd3000f65": {
+        "category": "kitchensupply",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "64ce0c349a57f9ca488887a53f46a53": {
+        "category": "kitchensupply",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "659192a6ba300f1f4293529704725d98": {
+        "category": "kitchensupply",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "68582543c4c6d0bccfdfe3f21f42a111": {
+        "category": "kitchensupply",
+        "sub_category": "plate",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "6970d21f2c2146656ab04bd3af593c95": {
+        "category": "kitchensupply",
+        "sub_category": "silverware",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "6c3bf99a9534c75314513156cf2b8d0d": {
+        "category": "kitchensupply",
+        "sub_category": "plate",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "71995893d717598c9de7b195ccfa970": {
+        "category": "kitchensupply",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "71b28e4dab2b20b11e652fa812161367": {
+        "category": "kitchensupply",
+        "sub_category": "silverware",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "7223820f07fd6b55e453535335057818": {
+        "category": "kitchensupply",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "7f48a40e81e41aa3f69588174903070c": {
+        "category": "kitchensupply",
+        "sub_category": "plate",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "87acae1c0253280297f47f3057557cbe": {
+        "category": "kitchensupply",
+        "sub_category": "silverware",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "8824ac5d1d34309794247f03639516c": {
+        "category": "kitchensupply",
+        "sub_category": "plate",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "89cf9af7513ecd0947bdf66811027e14": {
+        "category": "kitchensupply",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "89e8bae10847eb8a8721ead1444fbb07": {
+        "category": "kitchensupply",
+        "sub_category": "silverware",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "8bb057d18e2fcc4779368d1198f406e7": {
+        "category": "kitchensupply",
+        "sub_category": "plate",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "91b14c74a87d1ed51e652fa812161367": {
+        "category": "kitchensupply",
+        "sub_category": "silverware",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "95ac294f47fd7d87e0b49f27ced29e3": {
+        "category": "kitchensupply",
+        "sub_category": "plate",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "9729770f5437f768638735e451972522": {
+        "category": "kitchensupply",
+        "sub_category": "silverware",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            180.0
+        ]
+    },
+    "9969f6178dcd67101c75d484f9069623": {
+        "category": "kitchensupply",
+        "sub_category": "plate",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "9a52843cc89cd208362be90aaa182ec6": {
+        "category": "kitchensupply",
+        "sub_category": "plate",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "a169a87168e126c83742135a31826a22": {
+        "category": "kitchensupply",
+        "sub_category": "silverware",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "b6f30c63c946c286cf6897d8875cfd5e": {
+        "category": "kitchensupply",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "b70690efb402013233e4fde2bc371944": {
+        "category": "kitchensupply",
+        "sub_category": "plate",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "bbfd2df3edce576e1e652fa812161367": {
+        "category": "kitchensupply",
+        "sub_category": "silverware",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "bf4e419f863966f1bcbb3468b0bfc2ac": {
+        "category": "kitchensupply",
+        "sub_category": "plate",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "c63171cdc8eaedd23a63a352b1ae090d": {
+        "category": "kitchensupply",
+        "sub_category": "silverware",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "cd82398f7e6b64b08c9441777325d0fd": {
+        "category": "kitchensupply",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "d837bbbd63952a351e652fa812161367": {
+        "category": "kitchensupply",
+        "sub_category": "silverware",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "dc1c220c8ef89a5d1a57566a9a7e5976": {
+        "category": "kitchensupply",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "de731d4ac7341e15c58e834f0b160845": {
+        "category": "kitchensupply",
+        "sub_category": "silverware",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "e984fd7e97c2be347eaeab1f0c9120b7": {
+        "category": "kitchensupply",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            315.4
+        ]
+    },
+    "f151b5b32400054bebe0518a81e2c5c8": {
+        "category": "kitchensupply",
+        "sub_category": "plate",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "f91a40237428ea779a8a8c3e38b7aa20": {
+        "category": "kitchensupply",
+        "sub_category": "plate",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "fa23aa60ec51c8e4c40fe5637f0a27e1": {
+        "category": "kitchensupply",
+        "sub_category": "plate",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "fbc3702c344581fc5dca6305fb9f97ca": {
+        "category": "kitchensupply",
+        "sub_category": "plate",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "fc035f7d732166b97b6fd5468f603b31": {
+        "category": "kitchensupply",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "18145f4b303c37f11c3739edd52fa3": {
+        "category": "lamp",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "19198a5f2d98f65ae3f7a74e12a274ef": {
+        "category": "lamp",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "19654d8fe7090a887eaeab1f0c9120b7": {
+        "category": "lamp",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "1d198eb08540837be9bd6b804c8484dd": {
+        "category": "lamp",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "21bca6a33809c7f26f2deb6dd348d3c7": {
+        "category": "lamp",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "26bb7229b024a8549b0c8289d51d981b": {
+        "category": "lamp",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "3052634e8d0c0a892275edbb5a3b2900": {
+        "category": "lamp",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "3330789450af921544fe3ba945082ada": {
+        "category": "lamp",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "368188e7a9b9e1d3c24c2251620b1cc4": {
+        "category": "lamp",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "3815c868bef2993f5db1960046b987bb": {
+        "category": "lamp",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "55eea74e6f73173b49904d779af64a6e": {
+        "category": "lamp",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "5f1dec078cee0f78c580fdeb5460f6d6": {
+        "category": "lamp",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "6da4855b1a5a4051d55a3258262c9e01": {
+        "category": "lamp",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "6dcbc7efc9369de386a5dcc6ebde687f": {
+        "category": "lamp",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "7d77f1dd8bcf114ab71c4c06094146e8": {
+        "category": "lamp",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "88fd5793b4db032d6810ce686609e095": {
+        "category": "lamp",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "9d0420e382a2fb64c29a7766c473b5f6": {
+        "category": "lamp",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "9d9ade887a3fcfee89d70669fd6a0e5a": {
+        "category": "lamp",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "a2892d3450b7d3f5ee4c4a0e9a2e753": {
+        "category": "lamp",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "baccf5d0ae29d36e9a4be081d49fa50d": {
+        "category": "lamp",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "c170cc6fc5ff20ce1f5d7cf1f3f408d4": {
+        "category": "lamp",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "cf09b30a89f70929cc67b3de75c44c76": {
+        "category": "lamp",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "d08941d91a52d4ca411abfe83236ee8a": {
+        "category": "lamp",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "d1948365bbed9de270bb6bcb670ecdf5": {
+        "category": "lamp",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "d378c508566d68cb48d2aef7552b65e3": {
+        "category": "lamp",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            180.0
+        ]
+    },
+    "fb050e0cc057df3dd043998582f5fa": {
+        "category": "lamp",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "12bfa757452ae83d4c5341ee07f41676": {
+        "category": "officesupply",
+        "sub_category": "notebook",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "16d8b1fde755f7f96bc5197cc4c47fe8": {
+        "category": "officesupply",
+        "sub_category": "speakers",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "1ae8ed2f5bf117f067994ca435825ef": {
+        "category": "officesupply",
+        "sub_category": "notebook",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "1b3a47fcfe01cc42625ac64d4da8b7e4": {
+        "category": "officesupply",
+        "sub_category": "mousepad",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "1bc4576e48647c81766f4de1ddad87e2": {
+        "category": "officesupply",
+        "sub_category": "notebook",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "21b24d7acc390a3972a5c49c981e6593": {
+        "category": "officesupply",
+        "sub_category": "pen",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "225d37286bed9bb9dbf53b03c847b004": {
+        "category": "officesupply",
+        "sub_category": "monitor",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "241b26438e8523ee2846fa729d90e125": {
+        "category": "officesupply",
+        "sub_category": "monitor",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "290abe056b205c08240c46d333a693f": {
+        "category": "officesupply",
+        "sub_category": "cam",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "2b5dd21c9645c4c45ad909ab756c9f8b": {
+        "category": "officesupply",
+        "sub_category": "pen",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            180.0
+        ]
+    },
+    "3195ac8591b85a23cc34b900bb2492e": {
+        "category": "officesupply",
+        "sub_category": "pen",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "3714f64af44a135f6d3e11439c6c22c8": {
+        "category": "officesupply",
+        "sub_category": "keyboard",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "3c4c7ec7ffdfec50f39105e1e4d2e270": {
+        "category": "officesupply",
+        "sub_category": "monitor",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "3ec8e454858a6aed2513f3510eefb345": {
+        "category": "officesupply",
+        "sub_category": "notebook",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "3f34b7f6ef1fd8e7891aaffa5a7c7cad": {
+        "category": "officesupply",
+        "sub_category": "keyboard",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "4337b56660cd5e0afb8b3801690d6c37": {
+        "category": "officesupply",
+        "sub_category": "notebook",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "437d1c161da1b9fc57e4c0b864012bb5": {
+        "category": "officesupply",
+        "sub_category": "monitor",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "46852e4a3930580ce40d8d5d4209db73": {
+        "category": "officesupply",
+        "sub_category": "keyboard",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "4801fb3bd8ed2551d4ab0eed66631cfe": {
+        "category": "officesupply",
+        "sub_category": "cam",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "491731fae7b58f4cc2e054c56e9a85a": {
+        "category": "officesupply",
+        "sub_category": "notebook",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "4a8c02015b953598fa2e328741dade59": {
+        "category": "officesupply",
+        "sub_category": "mousepad",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "4c0d7cf86419a997d528a236ffa583af": {
+        "category": "officesupply",
+        "sub_category": "keyboard",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "4ca610046b322197fd93c2ac42357c74": {
+        "category": "officesupply",
+        "sub_category": "mouse",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "4ca670411a191a11df0c7dbe7f8f4c8e": {
+        "category": "officesupply",
+        "sub_category": "speakers",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "4ee8d3a617b574ee30582dab79e5c58d": {
+        "category": "officesupply",
+        "sub_category": "monitor",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "4f3c487c54ca29f2439292e4b8fd557e": {
+        "category": "officesupply",
+        "sub_category": "phone",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "551f91dce955101db3910795bbb09e36": {
+        "category": "officesupply",
+        "sub_category": "keyboard",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "553064cb5847dd022ac3d2cc9ad4756": {
+        "category": "officesupply",
+        "sub_category": "monitor",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "56794ac8b1257d0799fcd1563ba74ccd": {
+        "category": "officesupply",
+        "sub_category": "keyboard",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "58c7ab29b2cb73171e652fa812161367": {
+        "category": "officesupply",
+        "sub_category": "speakers",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "597a278f80d04db46d3e11439c6c22c8": {
+        "category": "officesupply",
+        "sub_category": "monitor",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "59e841dcc2d37d7819ed6e1a590c9122": {
+        "category": "officesupply",
+        "sub_category": "keyboard",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "5f0531dbeb4e2837741e88434245c899": {
+        "category": "officesupply",
+        "sub_category": "speakers",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "5f5271bf1d62599de3f7a74e12a274ef": {
+        "category": "officesupply",
+        "sub_category": "phone",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "5fff976b5cce26716870e413ec7729b0": {
+        "category": "officesupply",
+        "sub_category": "mousepad",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "61f958f07b7489e56f03051f81ab06b7": {
+        "category": "officesupply",
+        "sub_category": "keyboard",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "64931cef8097da781b42cc426459cc26": {
+        "category": "officesupply",
+        "sub_category": "pen",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "6560e938bffb3df1d0063b5c282d168a": {
+        "category": "officesupply",
+        "sub_category": "mouse",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "67f091721c90a533d747b49524a1246e": {
+        "category": "officesupply",
+        "sub_category": "speakers",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "6a2f5446b2d6c06d5bbea6ee257e41cc": {
+        "category": "officesupply",
+        "sub_category": "keyboard",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "6a85470c071da91a73c24ae76518fe62": {
+        "category": "officesupply",
+        "sub_category": "monitor",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "6bf1559769018cbb354b166143712fb3": {
+        "category": "officesupply",
+        "sub_category": "headphones",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "6ff315614cde9b42e58e58ea74bf6c0a": {
+        "category": "officesupply",
+        "sub_category": "mouse",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "728233c4904bdc88c6b9525db08731d1": {
+        "category": "officesupply",
+        "sub_category": "monitor",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "73bd6a9042414e067dfc744bf7fc7331": {
+        "category": "officesupply",
+        "sub_category": "keyboard",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "744c65c1a90c7db44f43b0e03c0602c": {
+        "category": "officesupply",
+        "sub_category": "keyboard",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "760bb845e930b20d3627f4333c06e848": {
+        "category": "officesupply",
+        "sub_category": "mousepad",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "771a0b1638955f3946f539968f885949": {
+        "category": "officesupply",
+        "sub_category": "monitor",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "7877e76ac622330f5688b5e43041beb4": {
+        "category": "officesupply",
+        "sub_category": "speakers",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "787bf704109ef23b89c1825c188af072": {
+        "category": "officesupply",
+        "sub_category": "mouse",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "78efdbc359aea694f4ce6a9aa07faa7": {
+        "category": "officesupply",
+        "sub_category": "notebook",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "7c9ebd91cad16031eef0f11c11eb9c67": {
+        "category": "officesupply",
+        "sub_category": "pen",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "7e984643df66189454e185afc91dc396": {
+        "category": "officesupply",
+        "sub_category": "keyboard",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "810fac004670692fe9d7a3dffbf25100": {
+        "category": "officesupply",
+        "sub_category": "monitor",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            180.0
+        ]
+    },
+    "83cb9de7071ef25a6ef3e946e96cc65c": {
+        "category": "officesupply",
+        "sub_category": "pen",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "8b5a96b72767f7354fac5eaf08c4d9ce": {
+        "category": "officesupply",
+        "sub_category": "monitor",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "8b91348fd811322e583f4c0d2625bf24": {
+        "category": "officesupply",
+        "sub_category": "mouse",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            180.0
+        ]
+    },
+    "90198c0aaf0156ce764e2db342c0e628": {
+        "category": "officesupply",
+        "sub_category": "camera",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "90490d506c40f6b344ebbc705ad8c07": {
+        "category": "officesupply",
+        "sub_category": "mouse",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "937cdf200b33bdfd1aec2282dd8bc87a": {
+        "category": "officesupply",
+        "sub_category": "headphones",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "93927ab6b44bb95a1c4980134f4ff624": {
+        "category": "officesupply",
+        "sub_category": "speakers",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "980ea79e2dab7a595f4027209dc8065d": {
+        "category": "officesupply",
+        "sub_category": "keyboard",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "9ff1c3a225933646d95cbd7188c1a0ec": {
+        "category": "officesupply",
+        "sub_category": "pen",
+        "normalized_pose": [
+            90.0,
+            0.0,
+            90.0
+        ]
+    },
+    "a0383e1388e74ad8b0851ce87f32a267": {
+        "category": "officesupply",
+        "sub_category": "monitor",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "a20afd7d3f1c0f51e652fa812161367": {
+        "category": "officesupply",
+        "sub_category": "notebook",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "a3648a12281f5627da95f26923bb8547": {
+        "category": "officesupply",
+        "sub_category": "headphones",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "a6d442101c252b09e131a48033aecfb6": {
+        "category": "officesupply",
+        "sub_category": "mouse",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "ac37c2bffd932033c03cb21be18ac701": {
+        "category": "officesupply",
+        "sub_category": "keyboard",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "baec92fcef6455d67595922b150f8cc3": {
+        "category": "officesupply",
+        "sub_category": "keyboard",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "be0e483839b977f1ce8bf8bfdf6340e2": {
+        "category": "officesupply",
+        "sub_category": "mouse",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "be8596d3551ac09a572998e4111efbdc": {
+        "category": "officesupply",
+        "sub_category": "mouse",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "c65b30c8ec2833692d56866e214da3cf": {
+        "category": "officesupply",
+        "sub_category": "monitor",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "c7185c6e5dd741e139b7c00cb61e68ec": {
+        "category": "officesupply",
+        "sub_category": "monitor",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "c98e0e745a92abccaa60d250862f15f": {
+        "category": "officesupply",
+        "sub_category": "monitor",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "cd982888f54abe47c3459f09a171783f": {
+        "category": "officesupply",
+        "sub_category": "stapler",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "cf0af4e3801c6d7b2bf3161ae4fda942": {
+        "category": "officesupply",
+        "sub_category": "monitor",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "d10085421b3cd3a27504aecf4baaa1e": {
+        "category": "officesupply",
+        "sub_category": "monitor",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "d249653931daa9e6fd56d9106430c3fe": {
+        "category": "officesupply",
+        "sub_category": "mouse",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "d2b11476a0faecc9bab552580a94aea4": {
+        "category": "officesupply",
+        "sub_category": "speakers",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "d2c752b71ef5a7fa58fe5738991208f7": {
+        "category": "officesupply",
+        "sub_category": "notebook",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "d578b1493e118a736d07c55cf995503e": {
+        "category": "officesupply",
+        "sub_category": "mouse",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "da262a969415b79aab166950475a0b3e": {
+        "category": "officesupply",
+        "sub_category": "speakers",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "e2cd4218113ddcfe75b627155369ae7": {
+        "category": "officesupply",
+        "sub_category": "keyboard",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "e529f98d6e111b67625ac64d4da8b7e4": {
+        "category": "officesupply",
+        "sub_category": "pen",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            180.0
+        ]
+    },
+    "eebc68c22c72ee2c63915d3d0e86b8e1": {
+        "category": "officesupply",
+        "sub_category": "notebook",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "ef3d038046cab5cabeb3159acb187cec": {
+        "category": "officesupply",
+        "sub_category": "keyboard",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "f06420355fc77e82a1516d7c0c999c21": {
+        "category": "officesupply",
+        "sub_category": "monitor",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "f234b3f39edb7f1d8ef19a48ac4fcfdf": {
+        "category": "officesupply",
+        "sub_category": "pen",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "f47b9fc9a55a731a7bc6032416bc8ae": {
+        "category": "officesupply",
+        "sub_category": "monitor",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "fb0fd9603b5a49a6543cf2c03b1ab0e1": {
+        "category": "officesupply",
+        "sub_category": "monitor",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "fd2b9801fad1aefbfff0f548d21dfdb7": {
+        "category": "officesupply",
+        "sub_category": "keyboard",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "fed335202963b8d3fbeef84a1ff2df7f": {
+        "category": "officesupply",
+        "sub_category": "phone",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "1049af17ad48aaeb6d41c42f7ade8c8": {
+        "category": "picture",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            180.0
+        ]
+    },
+    "65ffbf90f3316cabb641dcdb5b12acd5": {
+        "category": "picture",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "f133f79d62037386b38af02549ba2ed4": {
+        "category": "picture",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "11a0f60b9baaaf59968608843530f3d7": {
+        "category": "pillbottle",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "8e6277003de9770a7c35d3c5d3b1fcf7": {
+        "category": "pillbottle",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "15c98bfa322106a0d291861d5bc3e7c8": {
+        "category": "pillow",
+        "normalized_pose": [
+            33.0,
+            33.0,
+            230.0
+        ]
+    },
+    "2a385185a799fe08f2c0658ad22a9a9b": {
+        "category": "pillow",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "343e3dedabdb067193e60794f9200b7": {
+        "category": "pillow",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "7600e8f31b6734dc32381107ee7a567e": {
+        "category": "pillow",
+        "normalized_pose": [
+            17.0,
+            17.0,
+            47.0
+        ]
+    },
+    "7d9cb088956a9c4993e60794f9200b7": {
+        "category": "pillow",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "a0903daa3dfa996837b2bb75885cfc44": {
+        "category": "pillow",
+        "normalized_pose": [
+            22.2,
+            49.9,
+            211.0
+        ]
+    },
+    "b5cb58fb099204fea5c423249b53dbc4": {
+        "category": "pillow",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            180.0
+        ]
+    },
+    "bb720e7949efc9abe4406b3bf37e6ffe": {
+        "category": "pillow",
+        "normalized_pose": [
+            24.3,
+            358.9,
+            90.0
+        ]
+    },
+    "1f8275f1c106144ff11c3739edd52fa3": {
+        "category": "plant",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "3a6e1c3f0755d58d774ba10f0bcc178a": {
+        "category": "plant",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "70367e4fd1ad753427eb00c151c6f711": {
+        "category": "plant",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "8e619f1312acae5021d25a6a55757584": {
+        "category": "plant",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "9aff149b3b73200fb4b94732d6aa086d": {
+        "category": "plant",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "add11329471685d6beceb95982284736": {
+        "category": "plant",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "aeb9aa00a233920e1f6a5b0146bf3030": {
+        "category": "plant",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "d329bd51cde4b5e5f11c3739edd52fa3": {
+        "category": "plant",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "32f5a291682a2c91d9cc9318f4254eef": {
+        "category": "rug",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "519a08100db8ed09de239bcf521389e4": {
+        "category": "rug",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "13a4536a8c7dbc87e3f7a74e12a274ef": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "19354bd08463173480f6183c41836dab": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "1c123801cd052c833bd248747cb27ae2": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "1c79879f2d056f3f3d1186ce59aba25a": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "2af7fd82220958396a7fef47a322d12c": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "2bd3ebdfde8d0440bd0beb7c8bc640fc": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "2c730735f7f3e60f848ac41b30fbbc29": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "30f435dd6d37fbdec4b73036ef32ebc6": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "37f5b81952124b6379e4b7d98f1d0362": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "3a2abb9d8c39e9ceb2608bc8dec0a3": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "3ac855eb532ed682fa58e2c43125b2bb": {
+        "category": "table",
+        "sub_category": "clock",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "4743c6feeda10ecd79368d1198f406e7": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "4be0f809a66f1797ad9d8182e90fd7fb": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "4f3b404cc30d2306b96ac7572d4197cf": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "5ce562e0632b7e81d8e3889d90601dd1": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "647692d3858790a1f1783a44a88d6274": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "68ed85793b50ea5ed0c025aa023b723e": {
+        "category": "table",
+        "sub_category": "desktop",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "6d67f92d6e11f29e5792b99b8245d225": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "7592895b5d66ceb03ddb1e5435cf76f7": {
+        "category": "table",
+        "sub_category": "desktop",
+        "normalized_pose": [
+            0.0,
+            90.0,
+            0.0
+        ]
+    },
+    "7d3fc73ccd968863e40d907aaaf9adfd": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "7fe6223d1b29a0b6b546aa7c48b3dfb5": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "81dec5a50d26f1dff04bb0474a98ba2b": {
+        "category": "table",
+        "sub_category": "clock",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "85c9d40715e2607fe9f110baa2a9ff2b": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "872767dd790ffdf460ddc468fe733ed1": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "8c3e8ef43fdacf68230ea05136ea3925": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "8d533bfd684499c698d5fc0473d00a1c": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "8f21852c149dfbe0a9429630cfe97ddd": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "94eacaf4000fa56298d5fc0473d00a1c": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "965c7ce6ec1b48e7e3f7a74e12a274ef": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "a2cf3d4375a5c6a65dea31ce253437e6": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "a6f19d6f3a6b3cce35c6c07cec6934c5": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "a7f98e26ccb27f0b52225a4689f7f600": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "ab6f5f7b138cd685bda72093f9b5aa73": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "b0e4b1c9a46c171f2cba66dc6aeabcd4": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "b5a2a53b9b7e16e6b85cd7b6d43e8edd": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "b92290c9eecc9eb6d7b294ba15caa94a": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "bb00ad069df73df5d1f943907d4f35fc": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "c21a2155b9eaf443371bbdceb8e7f90b": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "c5fc6c1e0d446d37acce1c6e70b58979": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "ca000b9d32450bc4eb6d0fd624ec3fc": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "ca6c07357ba5125b8e2adb29857f8a1": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "cdde9cb1f21676d12dd8e5d33382e245": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "ddb06b21fa60682333b76531c6a5deb5": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "e21cadab660eb1c5c71d82cf1efbe60a": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "e6a188bbf8315d11f1783a44a88d6274": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "ec587f7879575de529cc3e5ff518065b": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "eed2fa156d662c79b26e384cea2f274e": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "eef44075cd1781f1b0a6e87d5d5521b6": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "efe2bb181502eac1f3c9c1464e55d580": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "f270ca7d48d8bd4b52cf5dc0980d5b8c": {
+        "category": "table",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "fc5e57ba9bade79a86a499d1a4d80ea4": {
+        "category": "table",
+        "sub_category": "clock",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "ddf889fc432a0f869bc18b58d4f2bc4": {
+        "category": "tissuebox",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "e1a25cabcd4b233bb4c86e56e2f0dc0c": {
+        "category": "tissuebox",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "549a209480960894fd1b46bc39a18482": {
+        "category": "toy",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "59a52738f436b3c39b1ee006baec41ea": {
+        "category": "toy",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "e84e2abc7d52e97594c82b4c22576d29": {
+        "category": "toy",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "8826871281dc12951072594c80fb7e4e": {
+        "category": "tv",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "11e515cd806010b974287c0ff7c0f69a": {
+        "category": "uncategorized",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "17e958fa60740e4c3c143af07c12991a": {
+        "category": "uncategorized",
+        "sub_category": "plate",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "1883aa925a7c438b40eee76592e4bb9f": {
+        "category": "uncategorized",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "1984973536838e84f11c3739edd52fa3": {
+        "category": "uncategorized",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "21beeedb83c3702e91bf924be509bc17": {
+        "category": "uncategorized",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "2294583b27469851da06470a491566ee": {
+        "category": "uncategorized",
+        "sub_category": "basket",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "24aea80f4922897f667d013d9903dad4": {
+        "category": "uncategorized",
+        "sub_category": "headphones",
+        "normalized_pose": [
+            0.0,
+            90.0,
+            0.0
+        ]
+    },
+    "259539bd48513e3410d32c800df6e3dd": {
+        "category": "uncategorized",
+        "sub_category": "control",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "2793f99b63c0e57fb51c1960fcbab95": {
+        "category": "uncategorized",
+        "sub_category": "closet",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "28ad16d5e8987f7f9599371049c32d38": {
+        "category": "uncategorized",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "2ac0c847fcb99e282ff75b616e150b90": {
+        "category": "uncategorized",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "2d89d2b3b6749a9d99fbba385cc0d41d": {
+        "category": "uncategorized",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "3066bebdc5e28af6250658d40ee66ced": {
+        "category": "uncategorized",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "38c6a54843046bef5bbc469684caa508": {
+        "category": "uncategorized",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "3a3b19614d545834cd321262c762dc9": {
+        "category": "uncategorized",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "4361d71e2fb5206b3db3d3acce75295": {
+        "category": "uncategorized",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            180.0
+        ]
+    },
+    "436c74caa92dcf123c81d9b042c20aa4": {
+        "category": "uncategorized",
+        "sub_category": "control",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "45d6710a1685b5d0c6237a67905688bf": {
+        "category": "uncategorized",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "48c8f3176fbe7b37384368499a680cf1": {
+        "category": "uncategorized",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "490d1e66fcdc9dfca1c637e821f12a67": {
+        "category": "uncategorized",
+        "sub_category": "notebook",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "4dc6344e8e357867a0a7b8ecc42036d5": {
+        "category": "uncategorized",
+        "sub_category": "book",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "4ddc9ff12f94fd4f3c143af07c12991a": {
+        "category": "uncategorized",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "559777cd5bb26ead4f0a073f39c3e8c6": {
+        "category": "uncategorized",
+        "sub_category": "notebook",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "5b009a44661c47e2a4ee05a5737b7178": {
+        "category": "uncategorized",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "606d1ca3ca3cd8a9825c10ff30444226": {
+        "category": "uncategorized",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            331.0
+        ]
+    },
+    "6a0a6fcd0a5e2a9c9a4be081d49fa50d": {
+        "category": "uncategorized",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "7030fe0e41bc768dc100af6725b49451": {
+        "category": "uncategorized",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "70726c93705d15e2bd10d1d8402800d3": {
+        "category": "uncategorized",
+        "sub_category": "plate",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "7273304d59a567c27b6fd5468f603b31": {
+        "category": "uncategorized",
+        "sub_category": "picture",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            180.0
+        ]
+    },
+    "731230e9793ede14ba5342d638d0c267": {
+        "category": "uncategorized",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "7d78e217e0ba160fe2b248b8bb97d290": {
+        "category": "uncategorized",
+        "sub_category": "fruit",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "806a00311afae8e9397a5ce25ba881c1": {
+        "category": "uncategorized",
+        "sub_category": "notebook",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "97aa1929318460e69dfbd41352e3517a": {
+        "category": "uncategorized",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "9ac3717c088cd38bfbd525df60e2bb14": {
+        "category": "uncategorized",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "9c6434fe8f328812cdfafe3e224c6d1": {
+        "category": "uncategorized",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "9d1ccb57373b154acdf0d84a1f2184": {
+        "category": "uncategorized",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "a1210f26569cc2956c8f555619644437": {
+        "category": "uncategorized",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "a250e6193d406587e3f7a74e12a274ef": {
+        "category": "uncategorized",
+        "sub_category": "keyboard",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "a2c4b079ee4b2750bbda4bd2b976d8f7": {
+        "category": "uncategorized",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "a959980585058ee42764cfba57a5de73": {
+        "category": "uncategorized",
+        "sub_category": "headphones",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "b1d75ad18d986ec760005b40a079e2d3": {
+        "category": "uncategorized",
+        "sub_category": "bottle",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "b2770011448264d330334efc12f98ae8": {
+        "category": "uncategorized",
+        "sub_category": "box",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "b455ebfd4eeaa611a3f10d612f39bb6": {
+        "category": "uncategorized",
+        "sub_category": "bottle",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "b9714784de07ad31cae0e78ad4bea7bf": {
+        "category": "uncategorized",
+        "sub_category": "control",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "bf67722a3d7ebb22b8183a4a81361b94": {
+        "category": "uncategorized",
+        "sub_category": "notebook",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "c63f26966ef88f097adce296218fe478": {
+        "category": "uncategorized",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "c804bc67b0fc37db5554764d7c3c0e03": {
+        "category": "uncategorized",
+        "sub_category": "shoes",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "c9fe86bef85fd1d0caeedf6b101df8f6": {
+        "category": "uncategorized",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "d65af1977f2f4cb871475b5b6e33dc2b": {
+        "category": "uncategorized",
+        "sub_category": "control",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "e1c3d648f0722c38132fd0b3f17b0d6c": {
+        "category": "uncategorized",
+        "sub_category": "notebook",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "e34376ceb14eef4467994ca435825ef": {
+        "category": "uncategorized",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "e6438b9e372c8fc65df55ba110f93925": {
+        "category": "uncategorized",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "e69776ab0e8ceb328b398b2ca89fce81": {
+        "category": "uncategorized",
+        "sub_category": "pen",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "ec742ff34906e5e890234001fde0a408": {
+        "category": "uncategorized",
+        "sub_category": "cup",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "ee42842cfe349e8379849592b85c18": {
+        "category": "uncategorized",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "f331ad8d0e6654ef8f992b1fe7075c8f": {
+        "category": "uncategorized",
+        "sub_category": "bottle",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "f7800c8710eacfb9b7212d4f8780127f": {
+        "category": "uncategorized",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "ffb1bd15cf96d55de3f7a74e12a274ef": {
+        "category": "uncategorized",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "d664ee564fcf5ff9d9deb3f829cc2475": {
+        "category": "videogameconsole",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "1a5a12839c48724153250612ca93852": {
+        "category": "walldecoration",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "22772be8165cc93ec9d2af7259032e7f": {
+        "category": "walldecoration",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "31ec3a6a5ffde82db083c1ffde6f2daf": {
+        "category": "walldecoration",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "51f7cdc956f45e5a7bf41c709bc6a298": {
+        "category": "walldecoration",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "6b5022bb6bd021257b9c6deef486a7d8": {
+        "category": "walldecoration",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "6b71913851ad95fd15a99c418688aee5": {
+        "category": "walldecoration",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "7602ff5df5b0ed4d2417f90121676f17": {
+        "category": "walldecoration",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "7a6388da9d848f88f584e3f372dd1a2d": {
+        "category": "walldecoration",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "92bba8ee90a1a27d55a37a576deeca6a": {
+        "category": "walldecoration",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "9d8292964921baf78af30108ea9ccb6c": {
+        "category": "walldecoration",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "a7004cf21d883a919757674d08f701d6": {
+        "category": "walldecoration",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "b157060e13facf675ae257638a361e48": {
+        "category": "walldecoration",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    },
+    "b4407e5d4d18ed49cbef8b6c710135cb": {
+        "category": "walldecoration",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "c9aeb70c7b8ca6038706922c1df0dc60": {
+        "category": "walldecoration",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "e59626f553df30e8a7d0cc9b15400f65": {
+        "category": "walldecoration",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            90.0
+        ]
+    },
+    "f6ef87c28c31be768ba2126777cb0179": {
+        "category": "walldecoration",
+        "normalized_pose": [
+            0.0,
+            0.0,
+            270.0
+        ]
+    }
+}

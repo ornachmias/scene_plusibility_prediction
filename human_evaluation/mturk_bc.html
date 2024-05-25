@@ -1,0 +1,208 @@
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+<crowd-form>
+    <h1>Image Plausibility Classification</h1>
+    <h2>Basic Instructions</h2>
+    <p>In this survey we are testing the ability to distinguish plausible scenes from implausible ones. </p>
+    <p>Implausibility can come in many forms: intersection of objects into each other, objects flying in the air, object whose size is wrong compared to others etc.</p>
+    <ul>
+        <li>If no objects were transformed, the image is <b>plausible</b></li>
+        <li>If you detect something wrong with the image, the image is <b>implausible</b></li>
+    </ul>
+    <br>
+    <p>In the following images please take a good look and indicate if the scene is plausible or not in your opinion, and if not, then why. The categories are:</p>
+    <ul>
+        <li><strong>Co-occurrence Location</strong> - the object is located in a place you wouldn’t expect to see such an object (example: a plate located on the floor).</li>
+        <li><strong>Co-occurrence Rotation</strong> - the object located correctly when by itself, but it's rotated in such a way that doesn't fit the surrounding objects (example: a chair that is rotated to face from the table).</li>
+        <li><strong>Gravity</strong> - the object pose is correct, but it's located in the air without any physical support (example: a table that is floating in the scene).</li>
+        <li><strong>Intersection</strong> - two or more objects that are intersecting with each other (example: a cup that is halfway inside the table).</li>
+        <li><strong>Pose</strong> - although the object is located correctly in the scene, its position is unreasonable and physically not supported (example: a bottle on a table, tilted on the side, while not standing or laying).</li>
+        <li><strong>Size</strong> - the object is significantly larger or smaller compared to the rest of the surrounding objects (example: a pen which is larger than a notebook, or a chair that is too small for the table next to it).</li>
+    </ul>
+    <p>Additional details and instructions can be found in the full instruction section.</p>
+    <p>Please note that the HIT contains test questions, failure to answer correctly on those question will result in <b>rejection</b></p>
+    <br>
+    <br>
+
+    <input type="hidden" name="image_1_url" id="image_1_url" value="${image1_url}"/>
+    <input type="hidden" name="image_2_url" id="image_2_url" value="${image2_url}"/>
+    <input type="hidden" name="image_3_url" id="image_3_url" value="${image3_url}"/>
+    <input type="hidden" name="image_4_url" id="image_4_url" value="${image4_url}"/>
+    <input type="hidden" name="image_5_url" id="image_5_url" value="${image5_url}"/>
+    <input type="hidden" name="image_test_url" id="image_test_url" value="${image_test_url}"/>
+    <input type="hidden" name="image_test_result" id="image_test_result" value="${image_test_result}"/>
+
+    <h3>Plausible or Implausible?</h3>
+    <classification-target>
+        <img class="media" src="${image1_url}">
+    </classification-target>
+    <br>
+    <br>
+        <crowd-radio-group>
+            <input type="radio" id="plausible1" name="image1" value="plausible" required/>
+            <label for="plausible1" class="radio">Plausible</label><br>
+
+            <input type="radio" id="implausible1" name="image1" value="implausible"/>
+            <label for="implausible1" class="radio">Implausible</label><br>
+        </crowd-radio-group>
+    <br>
+    <br>
+    <h3>Plausible or Implausible?</h3>
+    <classification-target>
+        <img class="media" src="${image2_url}">
+    </classification-target>
+    <br>
+    <br>
+    <crowd-radio-group>
+        <input type="radio" id="plausible2" name="image2" value="plausible" required/>
+        <label for="plausible2" class="radio">Plausible</label><br>
+
+        <input type="radio" id="implausible2" name="image2" value="implausible"/>
+        <label for="implausible2" class="radio">Implausible</label><br>
+    </crowd-radio-group>
+    <br>
+    <br>
+    <h3>Plausible or Implausible?</h3>
+    <classification-target>
+            <img class="media" src="${image_test_url}">
+    </classification-target>
+    <br>
+    <br>
+    <crowd-radio-group>
+        <input type="radio" id="plausible_test" name="image_test" value="plausible" required/>
+        <label for="plausible_test" class="radio">Plausible</label><br>
+
+        <input type="radio" id="implausible_test" name="image_test" value="implausible"/>
+        <label for="implausible_test" class="radio">Implausible</label><br>
+    </crowd-radio-group>
+    <br>
+    <br>
+    <h3>Plausible or Implausible?</h3>
+    <classification-target>
+        <img class="media" src="${image3_url}">
+    </classification-target>
+    <br>
+    <br>
+    <crowd-radio-group>
+        <input type="radio" id="plausible3" name="image3" value="plausible" required/>
+        <label for="plausible3" class="radio">Plausible</label><br>
+
+        <input type="radio" id="implausible3" name="image3" value="implausible"/>
+        <label for="implausible3" class="radio">Implausible</label><br>
+    </crowd-radio-group>
+    <br>
+    <br>
+    <h3>Plausible or Implausible?</h3>
+    <classification-target>
+        <img class="media" src="${image4_url}">
+    </classification-target>
+    <br>
+    <br>
+    <crowd-radio-group>
+        <input type="radio" id="plausible4" name="image4" value="plausible" required/>
+        <label for="plausible4" class="radio">Plausible</label><br>
+
+        <input type="radio" id="implausible4" name="image4" value="implausible"/>
+        <label for="implausible4" class="radio">Implausible</label><br>
+    </crowd-radio-group>
+    <br>
+    <br>
+    <h3>Plausible or Implausible?</h3>
+    <classification-target>
+        <img class="media" src="${image5_url}">
+    </classification-target>
+    <br>
+    <br>
+    <crowd-radio-group>
+        <input type="radio" id="plausible5" name="image5" value="plausible" required/>
+        <label for="plausible5" class="radio">Plausible</label><br>
+
+        <input type="radio" id="implausible5" name="image5" value="implausible"/>
+        <label for="implausible5" class="radio">Implausible</label><br>
+    </crowd-radio-group>
+    <br>
+    <br>
+
+
+
+    <full-instructions header="Plausibility in Context classification instructions">
+        <p>You are invited to participate in a research study titled “Scene Images Plausibility”.  This study is being done by Or Nachmias (or.nachmias@post.idc.ac.il) under the supervision of Prof. Ariel Shamir and Dr. Ohad Fried from the Reichman University, Israel. </p>
+        <p>The purpose of this research study is to improve the ability of artificial intelligence to detect unreasonable layout of objects in a scene, based on a single image. There are no limitations for taking part in this questionnaire, and we encourage anyone to submit one or more results.</p>
+        <p>The study is made from 6 rendered images of indoor scenes, where each image contains up to 5 objects that were transformed in a way that caused the scene to look unreasonable. For each image you’ll be asked to detect if there is an implausible object in the scene or to categorize the implausibilities in the scene.</p>
+        <p>The different categories are:</p>
+        <ul>
+            <li><strong>Plausible</strong> - there is nothing wrong with the image.</li>
+            <li><strong>Co-occurrence Location</strong> - the object is located in a place you wouldn’t expect to see such an object (example: a plate located on the floor).</li>
+            <li><strong>Co-occurrence Rotation</strong> - the object located correctly when by itself, but the context causes it to become incorrect (example: a chair that is rotated to face from the table).</li>
+            <li><strong>Gravity</strong> - the object pose is correct, but it's located in the air without any physical support (example: a table that is floating in the scene).</li>
+            <li><strong>Intersection</strong> - two or more objects that are intersecting with each other (example: a cup that is halfway inside the table).</li>
+            <li><strong>Pose</strong> - although the object is located correctly in the scene, its position is unreasonable and physically not supported (example: a bottle on a table, tilted on the side, while not standing or laying).</li>
+            <li><strong>Size</strong> - the object is significantly larger or smaller compared to the rest of the objects around it (example: a pen which is larger than a notebook, or a chair that is too small for the table next to it).</li>
+        </ul>
+        <p>Categorization of each image should take no more than 5-8 seconds. While this is only a recommendation, the stated pay is based on this time estimation. Out of those 6 images, one or more will be a part of our control set, which is picked manually. Failure to answer the control set correctly will result in automatic rejection. If you feel that we made a mistake, feel free to contact us (or.nachmias@post.idc.ac.il) and we’ll evaluate your submission manually.</p>
+        <p>Please refer to the following examples for each implausibility:</p>
+        <p>Size - the chair is small</p>
+        <img class="media" src="http://194.153.101.117:5000/resources/implausible/size/ZachDining2.generated_camera_106.0001.png">
+        <br>
+        <p>Pose - lamp is rotated</p>
+        <img class="media" src="http://194.153.101.117:5000/resources/implausible/pose/ComputerDesk2.generated_camera_077.0001.png">
+        <br>
+        <p>Co-occurrence Location - one plate is on the chair, and a cup is on the floor</p>
+        <img class="media" src="http://194.153.101.117:5000/resources/implausible/co-occurrence_location/ZachDining2.generated_camera_060.0003.png">
+        <br>
+        <p>Co-occurrence Rotation - the chair is rotated from the table</p>
+        <img class="media" src="http://194.153.101.117:5000/resources/implausible/co-occurrence_rotation/ComputerDesk1.generated_camera_043.0002.png">
+        <br>
+        <p>Gravity - the table is raised in the air</p>
+        <img class="media" src="http://194.153.101.117:5000/resources/implausible/gravity/termFigA.generated_camera_074.0001.png">
+        <br>
+        <p>Intersection - the table and chair are overlapping</p>
+        <img class="media" src="http://194.153.101.117:5000/resources/implausible/intersection/ZachMattBedroom.generated_camera_033.0004.png">
+        <br>
+    </full-instructions>
+    <short-instructions>
+        <p>In this HIT you'll be asked to classify the image, where each image contains up to 5 objects that were
+        transformed in a way that caused the scene to look unreasonable.</p>
+        <ul>
+            <li>If no objects were transformed, the image is <b>plausible</b></li>
+            <li>If you detect something wrong with the image, the image is <b>implausible</b></li>
+        </ul>
+
+        <p>The categories are:</p>
+        <ul>
+            <li><strong>Plausible</strong> - there is nothing wrong with the image.</li>
+            <li><strong>Co-occurrence Location</strong> - the object is located in a place you wouldn’t expect to see such an object (example: a plate located on the floor).</li>
+            <li><strong>Co-occurrence Rotation</strong> - the object located correctly when by itself, but the context causes it to become incorrect (example: a chair that is rotated to face from the table).</li>
+            <li><strong>Gravity</strong> - the object pose is correct, but it's located in the air without any physical support (example: a table that is floating in the scene).</li>
+            <li><strong>Intersection</strong> - two or more objects that are intersecting with each other (example: a cup that is halfway inside the table).</li>
+            <li><strong>Pose</strong> - although the object is located correctly in the scene, its position is unreasonable and physically not supported (example: a bottle on a table, tilted on the side, while not standing or laying).</li>
+            <li><strong>Size</strong> - the object is significantly larger or smaller compared to the rest of the objects around it (example: a pen which is larger than a notebook, or a chair that is too small for the table next to it).</li>
+        </ul>
+    </short-instructions>
+
+    <br>
+    <br>
+</crowd-form>
+
+<style>
+   .media {
+      max-height: 640px;
+      max-width: 100vw;
+   }
+
+   #code {
+      width: 640px;
+      height: 30px;
+      display: inline-block;
+   }
+
+   .radio {
+      font-size: 16px;
+      font-weight: bold;
+   }
+
+   .rationale {
+      width: 500px;
+      height: 80px;
+   }
+
+</style>

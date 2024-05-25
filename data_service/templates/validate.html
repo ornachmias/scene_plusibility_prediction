@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .button {
+          border: none;
+          color: white;
+          padding: 15px 32px;
+          text-align: center;
+          text-decoration: none;
+          display: inline-block;
+          font-size: 16px;
+          margin: 4px 2px;
+          cursor: pointer;
+        }
+        .green {background-color: #4CAF50;} /* Red */
+        .red {background-color: #f44336;} /* Red */
+        .gray {background-color: #e7e7e7; color: black;} /* Gray */
+    </style>
+</head>
+<body>
+<div>
+    <h1>Plausibility in Context</h1>
+    <div>
+        <h2>{{implausible_image_path}}</h2>
+        <h3>Images left: {{n_images_left}}</h3>
+        <div>
+             <img src="/resources/{{plausible_image_path}}" alt="Plausible" width="auto" height="auto">
+             <img src="/resources/{{implausible_image_path}}" alt="Implausible" width="auto" height="auto">
+        </div>
+        <div>
+            <form method="post">
+                <input type="submit" name="submit_button" value="Skip" class="button gray">
+                <input type="submit" name="submit_button" value="Valid" class="button green">
+                <input type="submit" name="submit_button" value="Invalid" class="button red">
+                <input type="hidden" name="base_name" value="{{base_name}}">
+            </form>
+        </div>
+    </div>
+</div>
+</body>
+</html>

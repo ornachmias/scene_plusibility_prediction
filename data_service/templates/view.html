@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<div>
+    <h1>Plausibility in Context</h1>
+    <div>
+        <h2>Implausibility Categories</h2>
+        {% if categories %}
+            <ul>
+                {% for category in categories %}
+                    <li><a href="implausible/{{category}}">{{category}}</a></li>
+                {% endfor %}
+            </ul>
+        {% else %}
+            <p>Currently no category is available.</p>
+        {% endif %}
+
+    </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,202 @@
+[
+    {
+        "scenes_3d": [{
+            "idx": 0,
+            "label": "bag"
+        }],
+        "mscoco": [{
+            "idx": 27,
+            "label": "backpack"
+        }]
+    },
+    {
+        "scenes_3d": [{
+            "idx": 6,
+            "label": "bottle"
+        }],
+        "mscoco": [{
+            "idx": 44,
+            "label": "bottle"
+        }]
+    },
+    {
+        "scenes_3d": [{
+            "idx": 15,
+            "label": "cup"
+        }],
+        "mscoco": [{
+            "idx": 47,
+            "label": "cup"
+        }]
+    },
+    {
+        "scenes_3d": [{
+            "idx": 36,
+            "label": "silverware"
+        }],
+        "mscoco": [{
+            "idx": 48,
+            "label": "fork"
+        },
+        {
+            "idx": 49,
+            "label": "knife"
+        },
+        {
+            "idx": 50,
+            "label": "spoon"
+        }]
+    },
+    {
+        "scenes_3d": [{
+            "idx": 32,
+            "label": "plate"
+        }],
+        "mscoco": [{
+            "idx": 51,
+            "label": "bowl"
+        }]
+    },
+    {
+        "scenes_3d": [{
+            "idx": 17,
+            "label": "fruit"
+        }],
+        "mscoco": [{
+            "idx": 52,
+            "label": "banana"
+        },
+        {
+            "idx": 53,
+            "label": "apple"
+        },
+        {
+            "idx": 55,
+            "label": "orange"
+        }]
+    },
+    {
+        "scenes_3d": [{
+            "idx": 10,
+            "label": "chair"
+        }],
+        "mscoco": [{
+            "idx": 62,
+            "label": "chair"
+        }]
+    },
+    {
+        "scenes_3d": [{
+            "idx": 14,
+            "label": "couch"
+        }],
+        "mscoco": [{
+            "idx": 63,
+            "label": "couch"
+        }]
+    },
+    {
+        "scenes_3d": [{
+            "idx": 31,
+            "label": "plant"
+        }],
+        "mscoco": [{
+            "idx": 64,
+            "label": "potted plant"
+        }]
+    },
+    {
+        "scenes_3d": [{
+            "idx": 2,
+            "label": "bed"
+        }],
+        "mscoco": [{
+            "idx": 65,
+            "label": "bed"
+        }]
+    },
+    {
+        "scenes_3d": [{
+            "idx": 40,
+            "label": "table"
+        }],
+        "mscoco": [{
+            "idx": 67,
+            "label": "dining table"
+        }]
+    },
+    {
+        "scenes_3d": [{
+            "idx": 43,
+            "label": "tv"
+        }],
+        "mscoco": [{
+            "idx": 72,
+            "label": "tv"
+        }]
+    },
+    {
+        "scenes_3d": [{
+            "idx": 21,
+            "label": "laptop"
+        }],
+        "mscoco": [{
+            "idx": 73,
+            "label": "laptop"
+        }]
+    },
+    {
+        "scenes_3d": [{
+            "idx": 23,
+            "label": "mouse"
+        }],
+        "mscoco": [{
+            "idx": 74,
+            "label": "mouse"
+        }]
+    },
+    {
+        "scenes_3d": [{
+            "idx": 13,
+            "label": "control"
+        }],
+        "mscoco": [{
+            "idx": 75,
+            "label": "remote"
+        }]
+    },
+    {
+        "scenes_3d": [{
+            "idx": 19,
+            "label": "keyboard"
+        }],
+        "mscoco": [{
+            "idx": 76,
+            "label": "keyboard"
+        }]
+    },
+    {
+        "scenes_3d": [{
+            "idx": 4,
+            "label": "book"
+        },
+        {
+            "idx": 5,
+            "label": "books"
+        }],
+        "mscoco": [{
+            "idx": 84,
+            "label": "book"
+        }]
+    },
+    {
+        "scenes_3d": [{
+            "idx": 11,
+            "label": "clock"
+        }],
+        "mscoco": [{
+            "idx": 85,
+            "label": "clock"
+        }]
+    }
+]

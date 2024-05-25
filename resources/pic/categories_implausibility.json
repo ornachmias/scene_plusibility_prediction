@@ -1,0 +1,163 @@
+{
+    "bag": {
+        "allowed": ["gravity", "intersection", "size"],
+        "limited": ["co-occurrence", "pose"]
+    },
+    "basket": {
+        "allowed": ["gravity", "intersection", "co-occurrence_location", "size", "pose"]
+    },
+    "bed": {
+        "allowed": ["gravity", "intersection", "co-occurrence_location", "size", "pose"]
+    },
+    "board": {
+        "allowed": ["intersection", "co-occurrence_location"],
+        "limited": ["gravity", "size", "pose"]
+    },
+    "book": {
+        "allowed": ["gravity", "intersection", "size", "pose", "co-occurrence_location"]
+    },
+    "books": {
+        "allowed": ["gravity", "intersection", "size", "pose", "co-occurrence_location"]
+    },
+    "bottle": {
+        "allowed": ["gravity", "intersection", "co-occurrence_location", "size", "pose"]
+    },
+    "box": {
+        "allowed": ["gravity", "intersection", "pose"],
+        "limited": ["co-occurrence", "size"]
+    },
+    "cam": {
+        "allowed": ["gravity", "intersection", "co-occurrence_location_rotation", "size", "pose"]
+    },
+    "camera": {
+        "allowed": ["gravity", "intersection", "co-occurrence_location_rotation", "size", "pose"]
+    },
+    "chair": {
+        "allowed": ["gravity", "intersection", "co-occurrence_rotation", "size", "pose"]
+    },
+    "clock": {
+        "allowed": ["gravity", "intersection", "co-occurrence_location", "size", "pose"]
+    },
+    "closet": {
+        "allowed": ["gravity", "intersection", "co-occurrence_location_rotation", "size", "pose"]
+    },
+    "control": {
+        "allowed": ["gravity", "size", "pose", "intersection"],
+        "limited": ["co-occurrence"]
+    },
+    "couch": {
+        "allowed": ["gravity", "intersection", "co-occurrence_rotation", "size", "pose"]
+    },
+    "cup": {
+        "allowed": ["gravity", "intersection", "co-occurrence_location", "pose"],
+        "limited": ["size"]
+    },
+    "desktop": {
+        "allowed": ["gravity", "intersection", "size", "pose", "co-occurrence_location"]
+    },
+    "fruit": {
+        "allowed": ["gravity", "co-occurrence_location", "size", "pose"],
+        "limited": ["intersection"]
+    },
+    "headphones": {
+        "allowed": ["gravity", "intersection", "co-occurrence_location", "size", "pose"]
+    },
+    "keyboard": {
+        "allowed": ["gravity", "intersection", "co-occurrence_location_rotation", "size", "pose"]
+    },
+    "lamp": {
+        "allowed": ["gravity", "intersection", "co-occurrence_location", "size", "pose"]
+    },
+    "laptop": {
+        "allowed": ["gravity", "intersection", "co-occurrence_location", "size", "pose"]
+    },
+    "monitor": {
+        "allowed": ["gravity", "intersection", "co-occurrence_location_rotation", "size", "pose"]
+    },
+    "mouse": {
+        "allowed": ["gravity", "intersection", "size", "pose", "co-occurrence_location"]
+    },
+    "mousepad": {
+        "allowed": ["gravity", "intersection", "co-occurrence_location", "pose"],
+        "limited": ["size"]
+    },
+    "notebook": {
+        "allowed": ["gravity", "intersection", "size", "pose"],
+        "limited": ["co-occurrence"]
+    },
+    "pen": {
+        "allowed": ["gravity", "intersection", "co-occurrence_location", "size", "pose"]
+    },
+    "phone": {
+        "allowed": ["gravity", "intersection", "co-occurrence_location", "size", "pose"]
+    },
+    "picture": {
+        "allowed": ["intersection", "co-occurrence_location", "pose"],
+        "limited": ["gravity", "size"]
+    },
+    "pillbottle": {
+        "allowed": ["gravity", "intersection", "co-occurrence_location", "size", "pose"]
+    },
+    "pillow": {
+        "allowed": ["gravity", "intersection", "co-occurrence_location"],
+        "limited": ["size", "pose"]
+    },
+    "plant": {
+        "allowed": ["gravity", "intersection", "size", "pose"],
+        "limited": ["co-occurrence"]
+    },
+    "plate": {
+        "allowed": ["gravity", "co-occurrence_location", "pose"],
+        "limited": ["size", "intersection"]
+    },
+    "rug": {
+        "allowed": ["gravity", "pose"],
+        "limited": ["size", "intersection", "co-occurrence"]
+    },
+    "shirt": {
+        "allowed": ["gravity", "size", "pose"],
+        "limited": ["intersection", "co-occurrence"]
+    },
+    "shoes": {
+        "allowed": ["gravity", "intersection", "co-occurrence_location", "size", "pose"]
+    },
+    "silverware": {
+        "allowed": ["gravity", "size", "pose"],
+        "limited": ["intersection", "co-occurrence_location"]
+    },
+    "sodacan": {
+        "allowed": ["gravity", "intersection", "co-occurrence_location", "size", "pose"]
+    },
+    "speakers": {
+        "allowed": ["gravity", "intersection", "co-occurrence_location", "pose"],
+        "limited": ["size"]
+    },
+    "stapler": {
+        "allowed": ["gravity", "intersection", "co-occurrence_location", "size", "pose"]
+    },
+    "table": {
+        "allowed": ["gravity", "intersection", "co-occurrence_location", "co-occurrence_rotation", "size", "pose"]
+    },
+    "tissuebox": {
+        "allowed": ["gravity", "intersection", "co-occurrence_location", "size", "pose"]
+    },
+    "toy": {
+        "allowed": ["gravity", "intersection", "co-occurrence_location", "size", "pose"]
+    },
+    "tv": {
+        "allowed": ["gravity", "intersection", "co-occurrence_location_rotation", "pose"],
+        "limited": ["size"]
+    },
+    "videogameconsole": {
+        "allowed": ["gravity", "intersection", "size", "pose"],
+        "limited": ["co-occurrence"]
+    },
+    "walldecoration": {
+        "allowed": ["intersection", "co-occurrence_location"],
+        "limited": ["gravity", "size", "pose"]
+    },
+    "uncategorized": {
+        "allowed": [],
+        "limited": ["gravity", "size", "pose", "intersection", "co-occurrence"]
+    }
+}

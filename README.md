@@ -1,4 +1,7 @@
 # Plausibility in Context
+## Dataset
+Please note that the dataset used in this project is not available for direct download. This is because our dataset is built upon another dataset that is subject to its own usage and distribution policies. To comply with these policies and to ensure reproducibility of our work, we have provided a data generation process. This process will guide you to download the original dataset from its source and subsequently generate our derived dataset. By following the instructions in the data generation script, you can recreate the dataset used in our analysis and experiments.
+
 ## Data Generation
 From the generate.py code directory, enter the following command:
 ### Windows
